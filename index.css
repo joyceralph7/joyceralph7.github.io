@@ -19,7 +19,7 @@ header {
 
 
 h1 {
-  font-size: 40px;
+  font-size: 65px;
   color: red;
   text-align: center;
 }
@@ -36,8 +36,11 @@ body h2 {
 
 
 }
+
+
+}
 body h3 {
-  font-size: 30px;
+  font-size: 40px;
   font-size: bold;
   color: blue;
 }
@@ -45,7 +48,9 @@ body h3 {
 
 body h4 {
   font-size: 30;
+  font-size: bold;
   color: #006400;
+
 }
 
 body h5 {
@@ -61,10 +66,14 @@ h3 {
 
 h4 {
   background-color: #ffff66;
-
 }
 
 h5 {
-
   background-color: #ffff66;
+}
+h6 {
+  font-size: 40px;
+  color: #006400;
+  background-color: #ffff66;
+
 }
