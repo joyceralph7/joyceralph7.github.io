@@ -12,16 +12,18 @@ body {
   margin-right:auto;
 }
 
-
 header {
   text-align: center;
 }
 
 
 h1 {
+  text-shadow: 3px 2px black;
   font-size: 65px;
   color: red;
   text-align: center;
+
+
 }
 
 section {
@@ -31,32 +33,29 @@ section {
 }
 
 
-body h2 {
-	color: red;
-
-
-}
-
-
-}
 body h3 {
-  font-size: 40px;
-  font-size: bold;
-  color: blue;
+  text-shadow: 3px 2px blue;
+  font-size: 45px;
+  color: #000000;
 }
 
 
 body h4 {
-  font-size: 30;
+  font-size: 35px;
   font-size: bold;
   color: #006400;
-
 }
 
 body h5 {
   font-size: 30px;
-  font-size: bold;
   color: #006400;
+}
+
+h2 {
+  font-size: 50px;
+
+  text-shadow: 3px 2px black;
+
 }
 
 
@@ -67,13 +66,21 @@ h3 {
 h4 {
   background-color: #ffff66;
 }
+h4 {
 
+  background-color: #ff6366
+
+}
 h5 {
-  background-color: #ffff66;
+  background: #ff6366;
+  font-size: 40px;
+  color: #00bfff;
+
+
 }
 h6 {
   font-size: 40px;
   color: #006400;
-  background-color: #ffff66;
+  background-color: #bf00ff;
 
 }
