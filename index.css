@@ -10,6 +10,7 @@ body {
   height:auto;
   margin-left:auto;
   margin-right:auto;
+  text-align: center;
 }
 
 header {
@@ -20,20 +21,22 @@ h1{
   text-shadow: 3px 2px black;
   font-size: 55px;
   color: red;
-  text-align: center;
 }
 
 section {
   background: url(https://image.shutterstock.com/z/stock-photo-best-internet-concept-of-global-business-technological-background-rays-symbols-wi-fi-of-the-479687911.jpg);
 }
 
+body {
+  text-align: center;
+}
 
 body h3 {
   text-shadow: 3px 2px blue;
   font-size: 35px;
   color: #000000;
+  text-align: left;
 }
-
 
 body h4 {
   font-size: 30px;
@@ -50,6 +53,7 @@ h2 {
   font-size: 45px;
   color: red;
   text-shadow: 3px 2px black;
+  text-align: centre;
 }
 
 h3 {
