@@ -1,8 +1,8 @@
 body {
+  background-color: yellow;
   font-family:"Lato";
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
-
 }
 
 #wrapper {
@@ -18,10 +18,9 @@ header {
 
 h1{
   text-shadow: 3px 2px black;
-  font-size: 70px;
+  font-size: 50px;
   color: red;
   text-align: center;
-
 }
 
 section {
@@ -31,24 +30,24 @@ section {
 
 body h3 {
   text-shadow: 3px 2px blue;
-  font-size: 45px;
+  font-size: 30px;
   color: #000000;
 }
 
 
 body h4 {
-  font-size: 35px;
+  font-size: 30px;
   font-size: bold;
   color: #006400;
 }
 
 body h5 {
-  font-size: 35px;
+  font-size: 30px;
   color: #006400;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 35px;
   color: red;
   text-shadow: 3px 2px black;
 }
@@ -72,7 +71,7 @@ h4 {
 
 h5 {
   background-color: #ff6366;
-  font-size: 40px;
+  font-size: 25px;
   color: #00bfff;
 }
 body h6 {
@@ -80,7 +79,7 @@ body h6 {
   background-color: green;
 }
 h6 {
-  font-size: 40px;
+  font-size: 30px;
   color: red;
   background-color: #bf00ff;
 }
