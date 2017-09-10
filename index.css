@@ -16,7 +16,6 @@ header {
   text-align: center;
 }
 
-
 h1{
   text-shadow: 3px 2px black;
   font-size: 65px;
@@ -27,8 +26,7 @@ h1{
 
 section {
   background: url(https://image.shutterstock.com/z/stock-photo-abstract-polygonal-space-low-poly-dark-background-with-connecting-dots-and-lines-connection-503725969.jpg);
-  font-weight: bold;
-  color: red;
+  color: green;
 }
 
 
@@ -46,40 +44,43 @@ body h4 {
 }
 
 body h5 {
-  font-size: 30px;
+  font-size: 35px;
   color: #006400;
 }
 
 h2 {
   font-size: 50px;
-
   text-shadow: 3px 2px black;
-
 }
-
 
 h3 {
   background-color: #ff6366;
 }
+body {
+  color: rgb(102, 255, 102);
+  background: green;
+}
 
 h4 {
-  background-color: #ffff66;
+  color: blue;
+  background-color: #ff6366;
 }
-h4 {
 
-  background-color: #ff6366
+ body {
+   color: black;
+ }
 
-}
 h5 {
-  background: #ff6366;
+  background-color: #ff6366;
   font-size: 40px;
   color: #00bfff;
-
-
+}
+body h6 {
+  text-shadow: 3px 2px blue;
+  background-color: green;
 }
 h6 {
   font-size: 40px;
-  color: #006400;
+  color: black;
   background-color: #bf00ff;
-
 }
