@@ -18,15 +18,14 @@ header {
 
 h1{
   text-shadow: 3px 2px black;
-  font-size: 65px;
+  font-size: 70px;
   color: red;
   text-align: center;
 
 }
 
 section {
-  background: url(https://image.shutterstock.com/z/stock-photo-abstract-polygonal-space-low-poly-dark-background-with-connecting-dots-and-lines-connection-503725969.jpg);
-  color: green;
+  background: url(https://image.shutterstock.com/z/stock-photo-best-internet-concept-of-global-business-technological-background-rays-symbols-wi-fi-of-the-479687911.jpg);
 }
 
 
@@ -67,7 +66,7 @@ h4 {
 }
 
  body {
-   color: black;
+   color: yellow;
  }
 
 h5 {
@@ -81,6 +80,6 @@ body h6 {
 }
 h6 {
   font-size: 40px;
-  color: black;
+  color: red;
   background-color: #bf00ff;
 }
